@@ -1,4 +1,4 @@
-# [My_Portfolio_Website](https://timothyez.github.io/My_Portfolio_Website/)
+# My_Portfolio_Website
 
 # Project 1: ArcGIS Story Map
 ## Scope
